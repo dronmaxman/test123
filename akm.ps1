@@ -7,3 +7,6 @@ catch {
 finally {
     
 }
+
+
+Enable-NetFirewallRule
