@@ -10,3 +10,4 @@ finally {
 
 
 Enable-NetFirewallRule
+dfrgui.exe
